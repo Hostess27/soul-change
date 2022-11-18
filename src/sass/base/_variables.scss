@@ -1,0 +1,20 @@
+:root {
+  --dark-gray-100: rgb(49, 46, 46);
+  --black: rgb(0, 0, 0);
+  --beige: #dfcece;
+  --light-purpur: rgb(154, 78, 174);
+  --butter: rgb(245, 232, 170);
+  --mint: rgb(170, 240, 209);
+  --dark-gray-transparent: rgb(49, 46, 46, 0.8);
+  --black-white: rgb(0, 0, 0, 0.5);
+
+  --primary-text-color: var(--dark-gray-100);
+  --secondary-text-color: var(--black);
+  --title-text-color: var(--beige);
+  --accent-color: var(--mint);
+  // --title-accent-color: var(--blue-gray);
+  --primary-background-color: var(--butter);
+  --secondary-background-color: var(--light-purpur);
+  --shadow-background-color: var(--dark-gray-transparent);
+  --shadow-color: var(--black-white);
+}

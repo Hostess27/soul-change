@@ -1,0 +1,126 @@
+.practices {
+}
+.practices__title {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 600;
+  text-align: center;
+  color: var(--accent-color);
+  text-transform: uppercase;
+  padding-right: 40px;
+  @media screen and (max-width: 479px) {
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+  }
+  @media screen and (min-width: 480px) {
+    font-size: 20px;
+  }
+  @media screen and (min-width: 768px) {
+    font-size: 35px;
+  }
+  @media screen and (min-width: 1280px) {
+    font-size: 60px;
+  }
+}
+.practices__box {
+  display: flex;
+  justify-content: center;
+}
+.practices__list {
+  width: 100vh;
+  @media screen and (min-width: 768px) {
+    display: grid;
+    grid-gap: 20px;
+  }
+}
+
+.oblast-1 {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+.oblast-2 {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.oblast-3 {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 3;
+  grid-column-end: 4;
+}
+
+.practices__item {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.practices__img {
+  width: 100%;
+  border-radius: 5px;
+
+  @media screen and (min-width: 768px) {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+  }
+}
+.practices__name {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 600;
+  text-align: center;
+  color: var(--primary-text-color);
+  text-transform: uppercase;
+  padding: 10px;
+
+  @media screen and (max-width: 479px) {
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding: 0;
+  }
+  @media screen and (min-width: 480px) {
+    font-size: 15px;
+  }
+  @media screen and (min-width: 768px) {
+    font-size: 20px;
+  }
+  @media screen and (min-width: 1280px) {
+    font-size: 40px;
+  }
+}
+
+.practices__paragraph {
+  font-family: Work Sans;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 15px;
+
+  padding: 10px;
+  color: var(--primary-text-color);
+  background-color: var(--accent-color);
+  border-radius: 5px;
+  @media screen and (max-width: 479px) {
+    font-size: 10px;
+  }
+  @media screen and (min-width: 480px) {
+    font-size: 10px;
+  }
+  @media screen and (min-width: 768px) {
+    font-size: 15px;
+  }
+  @media screen and (min-width: 1024px) {
+    font-size: 30px;
+  }
+}
+
+.practices__btn{
+  padding: 10px;
+  background-color: var(--secondary-background-color);
+  border-radius: 5px;
+  border: none;
+}
