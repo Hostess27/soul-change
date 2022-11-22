@@ -119,9 +119,12 @@
   }
 }
 
-.practices__btn{
+.practices__btn {
   padding: 10px;
   background-color: var(--secondary-background-color);
   border-radius: 5px;
   border: none;
+  @media screen and (max-width: 767px) {
+    margin-bottom: 20px;
+  }
 }
