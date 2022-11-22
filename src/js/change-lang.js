@@ -1,6 +1,6 @@
 import langArr from './lang';
 const select = document.querySelector('select');
-const allLang = ['ua', 'ru'];
+const allLang = ['ua', 'ru', 'en'];
 
 select.addEventListener('change', changeURLLanguage);
 
