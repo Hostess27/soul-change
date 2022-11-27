@@ -73,7 +73,7 @@ const langArr = {
   },
   yogaPrice: { ua: 'Заняття з йоги', ru: 'Занятие йоги', en: 'Yoga class' },
   taroPricePr: {
-    ua: 'Роблю розклади по хвилючих питаннях. 1-2теми. 1-2години роботи (запис в режимі черги) - 20€. Більше 2 тем - 30€ Терміново, зараз, SOS - 30€. Особиста зустріч: розповідаю, відповідаю на питання. Онлайн: пишете питання, я відповідаю письмово або голосовими повідомленнями (за бажанням).',
+    ua: 'Роблю розклади по хвилюючих питаннях. 1-2теми. 1-2години роботи (запис в режимі черги) - 20€. Більше 2 тем - 30€ Терміново, зараз, SOS - 30€. Особиста зустріч: розповідаю, відповідаю на питання. Онлайн: пишете питання, я відповідаю письмово або голосовими повідомленнями (за бажанням).',
     ru: 'Делаю расклад по волнующим вопросам. 1-2 темы. 1-2 часа работы (запись в режиме очереди) – 20€. Больше 2 тем - 30€ Срочно, сейчас, SOS – 30€. Личная встреча: рассказываю, отвечаю на вопросы. Онлайн: пишете вопрос, я отвечаю письменно или голосовыми сообщениями (по желанию).',
     en: 'I make schedules on exciting issues. 1-2 topics. 1-2 hours of work (recording in queue mode) - 20€. More than 2 topics - 30€ Urgent, now, SOS - 30€. Personal meeting: I tell, answer questions. Online: write questions, I will answer in writing or by voice messages (optional).',
   },
@@ -83,7 +83,7 @@ const langArr = {
     en: 'Online. A personal meeting is possible, but by arrangement. Individual - 30€. Group (you can invite from 3 to 5 people themselves, or send me a request, I will collect the company at the specified time day) - 15€ per person.',
   },
   yogaPricePr: {
-    ua: 'Онлайн та особисті зустрічі. Одне заняття, 1 година - 10€. Медитацію проводжу в подарунок. Можливо поговорити про абонемент на місяць. 4 заняття - 30€.',
+    ua: 'Онлайн та особисті зустрічі. Одне заняття, 1 година - 10€. Медитацію проводжу в подарунок. Можливо придбати абонемент на місяць. 4 заняття - 30€.',
     ru: 'Онлайн и личные встречи. Одно занятие, 1 час – 10€. Медитацию провожу в подарок. Возможно поговорить об абонементе в месяц. 4 занятие – 30€.',
     en: 'Online and in-person meetings. One lesson, 1 hour - 10€. Meditation send as a gift. It is possible to talk about a subscription for a month. 4 classes - 30€.',
   },
