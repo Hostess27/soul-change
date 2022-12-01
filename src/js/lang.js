@@ -28,11 +28,15 @@ const langArr = {
     ru: 'Начните свой путь с гармонии. Почувствуйте себя, свои желания. Услышьте свою душу. Йога поможет сбалансировать вашу жизнь. Стрессы, бремя, панические атаки и многое другое можно исправить. Все можно стабилизировать и ощутить духовный рост. Доступные занятия групповые, индивидуальные и онлайн. Добавляю медитации по запросу, который вас волнует.',
     en: 'Start your journey with harmony. Feel yourself, your desires. Hear your soul. Yoga will help balance your life. Stress, burden, panic attacks and many other things can be corrected. Everything can be stabilized and spiritual growth can be felt. Group, individual and online classes are available. I am adding meditations on the request that worries you.',
   },
-  taro: { ua: 'Таро консультації', ru: 'Таро консультации', en: 'Tarot consultation' },
+  taro: {
+    ua: 'Таро консультації',
+    ru: 'Таро консультации',
+    en: 'Tarot consultation',
+  },
   taroPr: {
     ua: 'Я провідник інформації. Карти - інструмент. Ви не можете розібратися в собі, в близькій людині чи своєму житті? Ви не розумієте, як і куди йти далі? Ви хочете знати варіанти свого майбутнього? Вам страшно, боляче, незрозуміло? Можемо провести як особисту зустріч так і онлайн сесію. Я на вас чекаю.',
     ru: 'Я проводник информации. Карты – инструмент. Вы не можете разобраться в себе, в близком человеке или своей жизни? Вы не понимаете, как и куда идти дальше? Вы хотите знать варианты своего будущего? Вам страшно, больно, непонятно? Можем провести как личную встречу и онлайн сессию. Я жду вас.',
-   en: 'I am a conductor of information. Maps are a tool. You cant understand yourself, a loved one or your life? You do not understand how and where to go next? Do you want to know the options for your future? Are you afraid, hurt, unclear? We can hold both a personal meeting and an online session. I am waiting for you.',
+    en: 'I am a conductor of information. Maps are a tool. You cant understand yourself, a loved one or your life? You do not understand how and where to go next? Do you want to know the options for your future? Are you afraid, hurt, unclear? We can hold both a personal meeting and an online session. I am waiting for you.',
   },
   lila: {
     ua: 'Трансформаційна гра "Ліла Чакра"',
@@ -105,6 +109,28 @@ const langArr = {
   },
 
   contacts: { ua: 'Контакти:', ru: 'Контакты:', en: 'Contacts:' },
+
+  comName: {
+    ua: 'Ви можете залишити свій відгук тут:',
+    ru: 'Вы можете оставить свой отзыв здесь:',
+    en: 'You can leave your feedback here:',
+  },
+
+  inpName: { ua: 'Ваше ім`я:', ru: 'Ваше имя:', en: 'Your name:' },
+  inpMail: { ua: 'Ваш імейл:', ru: 'Ваш имейл:', en: 'Your mail:' },
+  inpText: { ua: 'Ваш відгук:', ru: 'Ваш отзыв:', en: 'Your feedback:' },
+
+  sendBtn: {
+    ua: 'Залишити відгук',
+    ru: 'Оставить отзыв',
+    en: 'Post a review',
+  },
+
+  feedback:{
+    ua: 'Відгуки',
+    ru: 'Отзывы',
+    en: 'Reviews',
+  }
 };
 
 export default langArr;
