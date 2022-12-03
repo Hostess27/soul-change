@@ -1,4 +1,15 @@
-4728
+4730
+95C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\picocolors\picocolors.d.ts133131114524414830 0
+106C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\runtime-js\lib\helpers\worker133131114539857354 1
+80C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@jridgewell133131114492330231 1
+85C:\Users\Pashchenko family\Documents\GitHub\soul-change\src\sass\base\_variables.scss133140167094482514 0
+81C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite133131114567732955 1
+81C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\csso\LICENSE133131114516169469 0
+87C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\picomatch\index.js133131114520332227 0
+151C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\main.js133131114543278510 0
+108C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fast-glob\out\providers\filters\deep.js133131114524444745 0
+92C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\core\index.d.ts133131114553494825 0
+64C:\Users\Pashchenko family\Documents\GitHub\soul-change\.netlify133145727974498221 1
 106C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\core\src\public\Dependency.js133131114543477970 0
 91C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\picomatch\CHANGELOG.md133131114528922581 0
 105C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\v8-compile-cache\v8-compile-cache.js133131114517690071 0
@@ -34,7 +45,7 @@
 100C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\regions\BY.js133131114546532332 0
 87C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\dom-serializer\lib133131114532593530 1
 103C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\type-fest\ts41\delimiter-case.d.ts133131114530455286 0
-60C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist133145721037496644 1
+60C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist133145727073990754 1
 70C:\Users\Pashchenko family\Documents\GitHub\soul-change\src\js\lang.js133145696132364542 0
 97C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\domutils\lib\manipulation.js133131114525152864 0
 67C:\Users\Pashchenko family\Documents\GitHub\soul-change\.posthtmlrc133106460800000000 0
@@ -65,7 +76,7 @@
 86C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\type-fest\license133131114515976942 0
 100C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\regions\PS.js133131114563841333 0
 97C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@swc\helpers\src\_type_of.js133131114551872893 0
-68C:\Users\Pashchenko family\Documents\GitHub\soul-change\package.json133131113505595081 0
+68C:\Users\Pashchenko family\Documents\GitHub\soul-change\package.json133145726608601026 0
 77C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\css-what133131114534240561 1
 100C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\weak-lru-cache\rollup.config.js133131114523726675 0
 78C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\path-type133131114522683101 1
@@ -141,13 +152,13 @@
 78C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\lmdb\util133131114549931139 1
 99C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\svgo\plugins\removeUnusedNS.js133131114543697387 0
 96C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\css-tree\lib\lexer\trace.js133131114549552166 0
-70C:\Users\Pashchenko family\Documents\GitHub\soul-change\src\index.html133145721362077775 0
+70C:\Users\Pashchenko family\Documents\GitHub\soul-change\src\index.html133145721490888818 0
 117C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\electron-to-chromium\full-chromium-versions.json133131114528453344 0
 98C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\v8-compile-cache\package.json133131114519686341 0
 100C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\htmlparser2\lib\Parser.d.ts.map133131114529467940 0
 121C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\features\link-rel-modulepreload.js133131114560950288 0
 92C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\terser\lib\transform.js133131114543717335 0
-82C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.b07d8003.js.map133145721036891759 0
+82C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.b07d8003.js.map133145727073564684 0
 93C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\terser\dist\package.json133131114543887011 0
 68C:\Users\Pashchenko family\Documents\GitHub\soul-change\src\index.js133144028429062860 0
 116C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133131114564607415 0
@@ -231,9 +242,9 @@
 90C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\posthtml\package.json133131114521845209 0
 85C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\dotenv\README.md133131114523517230 0
 80C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\terser\dist133131114543866932 1
+77C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@nodelib133131114492370898 1
 80C:\Users\Pashchenko family\Documents\GitHub\soul-change\src\sass\laout\hero.scss133131990654695333 0
 100C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\regions\SA.js133131114564286558 0
-77C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@nodelib133131114492370898 1
 83C:\Users\Pashchenko family\Documents\GitHub\soul-change\src\sass\utils\_common.scss133106460800000000 0
 90C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\chalk\source\index.js133131114518770948 0
 79C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\braces\lib133131114529587611 1
@@ -260,12 +271,6 @@
 88C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\terser\CHANGELOG.md133131114544179354 0
 121C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\node-resolver-core\test\fixture\node_modules133131114546711858 1
 85C:\Users\Pashchenko family\Documents\GitHub\soul-change\src\sass\laout\practices.scss133140170411282751 0
-95C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\picocolors\picocolors.d.ts133131114524414830 0
-106C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\runtime-js\lib\helpers\worker133131114539857354 1
-80C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@jridgewell133131114492330231 1
-85C:\Users\Pashchenko family\Documents\GitHub\soul-change\src\sass\base\_variables.scss133140167094482514 0
-81C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite133131114567732955 1
-81C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\csso\LICENSE133131114516169469 0
 94C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\codeframe\LICENSE133131114516338235 0
 79C:\Users\Pashchenko family\Documents\GitHub\soul-change\src\patrials\price.html133140154951973903 0
 80C:\Users\Pashchenko family\Documents\GitHub\soul-change\src\patrials\footer.html133136323107975221 0
@@ -351,7 +356,7 @@
 107C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\utility-types\dist\mapped-types.js.map133131114529467940 0
 110C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\type-fest\source\require-exactly-one.d.ts133131114538247103 0
 75C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@babel133131114491711026 1
-83C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.de541381.css.map133145721036929513 0
+83C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.de541381.css.map133145727073628777 0
 93C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\htmlnano\lib\htmlnano.js133131114530425369 0
 98C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\svgo\plugins\removeDoctype.js133131114541706705 0
 100C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\regions\VI.js133131114566350577 0
@@ -1245,7 +1250,7 @@
 98C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\cosmiconfig\dist\types.js.map133131114537917841 0
 88C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\term-size\readme.md133131114528194063 0
 83C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\logger133131114524092496 1
-82C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\Esoteric.8515d2ab.jpg133145721035332329 0
+82C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\Esoteric.8515d2ab.jpg133145727053872737 0
 115C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\features\beforeafterprint.js133131114543787151 0
 94C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\css-select\lib\types.d.ts133131114539742430 0
 91C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\entities\lib\decode.js133131114525637758 0
@@ -1778,8 +1783,6 @@
 125C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files133131114542567548 1
 115C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\dom-serializer\node_modules\entities\readme.md133131114532354171 0
 101C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\postcss-value-parser\lib\unit.js133131114523738834 0
-87C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\picomatch\index.js133131114520332227 0
-151C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\main.js133131114543278510 0
 116C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\htmlnano\lib\modules\sortAttributesWithLists.js133131114538247103 0
 116C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\parcel-reporter-clean-dist\.circleci\config.yml133131114544697469 0
 91C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\picomatch\package.json133131114527896108 0
@@ -1797,7 +1800,7 @@
 87C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\picocolors\LICENSE133131114516046751 0
 101C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\electron-to-chromium\versions.js133131114525953695 0
 107C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\entities\lib\decode_codepoint.d.ts.map133131114532084908 0
-76C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\me.ad23acdb.jpg133145721035332329 0
+76C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\me.ad23acdb.jpg133145727053872737 0
 92C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\picocolors\package.json133131114521380148 0
 93C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\picocolors\picocolors.js133131114519767153 0
 108C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\features\xhtmlsmil.js133131114567598217 0
@@ -2015,8 +2018,8 @@
 98C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@lezer\common\dist\index.d.ts133131114527200044 0
 89C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\nan\nan_converters.h133131114525055405 0
 117C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133131114544876975 0
-143C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133131114523437445 0
 96C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\nan\nan_converters_43_inl.h133131114522291879 0
+143C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133131114523437445 0
 99C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fast-glob\out\utils\errno.d.ts133131114539498293 0
 104C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\nan\nan_implementation_pre_12_inl.h133131114528413443 0
 92C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\lmdb\dist\index.cjs.map133131114551133846 0
@@ -2490,7 +2493,7 @@
 105C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\features\webhid.js133131114567073823 0
 102C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\css-tree\lib\syntax\node\Value.js133131114549812587 0
 90C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\htmlnano\CHANGELOG.md133131114545295862 0
-82C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.a079fc9b.js.map133145721036886884 0
+82C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.a079fc9b.js.map133145727073562915 0
 82C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\htmlnano\docs133131114545565172 1
 114C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\features\input-minlength.js133131114559470485 0
 100C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\cosmiconfig\dist\loaders.js.map133131114537010279 0
@@ -2597,7 +2600,7 @@
 97C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\transformer-html\lib133131114525242629 1
 92C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fclone\bench\looparr.js133131114531494188 0
 94C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fclone\bench\package.json133131114530355580 0
-78C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.a079fc9b.js133145721036856767 0
+78C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.a079fc9b.js133145727073538839 0
 83C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fastq\bench.js133131114518128897 0
 96C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\cosmiconfig\dist\loaders.js133131114528024767 0
 85C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fastq\example.js133131114519905582 0
@@ -2633,6 +2636,7 @@
 109C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\abortcontroller-polyfill\src\polyfill.js133131114529011855 0
 97C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fast-glob\out\utils\errno.js133131114528410995 0
 103C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\abortcontroller-polyfill\README.md133131114532094863 0
+75C:\Users\Pashchenko family\Documents\GitHub\soul-change\.netlify\state.json133145727974458296 0
 96C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fast-glob\out\utils\path.js133131114533286949 0
 99C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fast-glob\out\utils\pattern.js133131114533803449 0
 102C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@swc\helpers\src\_to_primitive.js133131114551307804 0
@@ -2667,7 +2671,6 @@
 112C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fast-glob\out\providers\matchers\matcher.js133131114532368223 0
 112C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fast-glob\out\providers\matchers\partial.js133131114532763086 0
 100C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\regions\LK.js133131114561032656 0
-108C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fast-glob\out\providers\filters\deep.js133131114524444745 0
 99C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@babel\code-frame\package.json133131114522187794 0
 111C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fast-glob\out\providers\filters\entry.d.ts133131114539079412 0
 109C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\fast-glob\out\providers\filters\error.js133131114529122189 0
@@ -2695,7 +2698,7 @@
 98C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\entities\lib\encode-trie.d.ts133131114536734746 0
 106C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@nodelib\fs.scandir\out\settings.d.ts133131114535496904 0
 102C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\entities\lib\encode-trie.d.ts.map133131114533803449 0
-71C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.html133145721130733145 0
+71C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.html133145728825653224 0
 91C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\entities\lib\generated133131114536068032 1
 119C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133131114533251766 0
 118C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\transformer-svg\test\parseFuncIRI.test.js133131114525731415 0
@@ -2902,7 +2905,7 @@
 100C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\css-tree\lib\syntax\node\Nth.js133131114547423523 0
 128C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\watcher\prebuilds\darwin-arm64\node.napi.glibc.node133131114540016948 0
 103C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\css-tree\lib\syntax\node\Number.js133131114547669300 0
-85C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\symbol-defs.3791a5ca.svg133145721036846611 0
+85C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\symbol-defs.3791a5ca.svg133145727073538839 0
 108C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\css-tree\lib\syntax\node\Parentheses.js133131114547938764 0
 116C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\caniuse-lite\data\features\css-initial-value.js133131114552410872 0
 112C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\workers\src\process\ProcessChild.js133131114536951011 0
@@ -4372,7 +4375,6 @@
 96C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\css\node\index.d.ts133131114526336456 0
 99C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\css\node\index.js.flow133131114518889502 0
 98C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\css\node\targets.d.ts133131114527400584 0
-92C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\core\index.d.ts133131114553494825 0
 89C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\core\LICENSE133131114532563607 0
 85C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\core\src133131114552620711 1
 86C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\@parcel\core\test133131114552470699 1
@@ -4719,11 +4721,11 @@
 82C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\.bin\svgo.ps1133131114568302984 0
 80C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\.bin\terser133131114568302984 0
 84C:\Users\Pashchenko family\Documents\GitHub\soul-change\node_modules\.bin\terser.cmd133131114568302984 0
-90C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\dreamcatcher-fav.e576913e.png133145721035332329 0
-78C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.b07d8003.js133145721036856767 0
-79C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.de541381.css133145721036866719 0
-78C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\lila.11192439.png133145721035332329 0
-78C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\taro.d95d7c99.jpg133145721035332329 0
-78C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\yoga.81b2686f.jpg133145721035332329 0
+90C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\dreamcatcher-fav.e576913e.png133145727053872737 0
+78C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.b07d8003.js133145727073550017 0
+79C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\index.de541381.css133145727073564684 0
+78C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\lila.11192439.png133145727053872737 0
+78C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\taro.d95d7c99.jpg133145727053887903 0
+78C:\Users\Pashchenko family\Documents\GitHub\soul-change\dist\yoga.81b2686f.jpg133145727053872737 0
 73C:\Users\Pashchenko family\Documents\GitHub\soul-change\.github\workflows133131112828552354 1
 84C:\Users\Pashchenko family\Documents\GitHub\soul-change\.github\workflows\deploy.yml133106460800000000 0
