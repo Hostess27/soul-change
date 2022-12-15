@@ -1,5 +1,5 @@
 const langArr = {
-  unit: { ua: 'Зміни дущі', ru: 'Изменение души', en: 'Soul change' },
+  unit: { ua: 'Зміни душі', ru: 'Изменение души', en: 'Soul change' },
   about: { ua: 'Про мене', ru: 'Обо мне', en: 'About me' },
   about1: { ua: 'Про мене', ru: 'Обо мне', en: 'About me' },
   about2: { ua: 'Про мене', ru: 'Обо мне', en: 'About me' },
